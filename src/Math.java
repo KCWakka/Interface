@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public interface Math {
+public interface Math {
+    public int someMath();
+    public void addMath();
+    public boolean isMath(int value);
 }
